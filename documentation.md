@@ -145,7 +145,9 @@ This section can come in 2 different variations: one with no background color an
 #### **Terms & Privacy**
 
 Can have the MTV section or not.
+
 ![alt text](images/components/image-8.png)
+
 ![alt text](images/components/image-12.png)
 
 ***
