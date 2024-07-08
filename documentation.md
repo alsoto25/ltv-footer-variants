@@ -85,42 +85,51 @@ These for the most part always come with the text centered.
 
 ### Top Section
 
-**Directory**
+#### **Directory**
+
 ![alt text](images/components/image-10.png)
 
-**Footer Link Section**
+#### **Footer Link Section**
+
 ![alt text](images/components/image-3.png)
 
-**Footer Login**
+#### **Footer Login**
+
 ![alt text](images/components/image-11.png)
 
-**Footer Link List**
+#### **Footer Link List**
+
 ![alt text](images/components/image.png)
 
-**5-stars Support**
+#### **5-stars Support**
+
 There are differnt presentations for this information, but for the most part they all have the same copy.
 ![alt text](images/components/image-1.png)
 ![alt text](images/components/image-15.png)
 ![alt text](images/components/image-16.png)
 
-**Social Links**
+#### **Social Links**
+
 ![alt text](images/components/image-2.png)
 
 ***
 
 ### Disclaimer Section
 
-**Disclaimer Emphasis**
+#### **Disclaimer Emphasis**
+
 Hard to find a real common denominator between all the disclaimer emphasis as some do it with slightly bigger font-size and other with bolder font. The only common denominator is the fact that they're first in the list of disclaimers.
 
 ![alt text](images/components/image-9.png)
 ![alt text](images/components/image-13.png)
 ![alt text](images/components/image-14.png)
 
-**Disclaimers**
+#### **Disclaimers**
+
 ![alt text](images/components/image-4.png)
 
-**Disclaimer Line**
+#### **Disclaimer Line**
+
 ![alt text](images/components/image-5.png)
 
 ***
@@ -129,10 +138,12 @@ Hard to find a real common denominator between all the disclaimer emphasis as so
 
 This section can come in 2 different variations: one with no background color and one with a slightly darker color.
 
-**Registered & Accessibility**
+#### **Registered & Accessibility**
+
 ![alt text](images/components/image-7.png)
 
-**Terms & Privacy**
+#### **Terms & Privacy**
+
 Can have the MTV section or not.
 ![alt text](images/components/image-8.png)
 ![alt text](images/components/image-12.png)
@@ -159,40 +170,49 @@ Can have the MTV section or not.
 [BV Phone Landing (596a06)](https://www.beenverified.com/lp/596a06/1/landing)
 [BV Obits Landing (ce2416)](https://www.beenverified.com/lp/ce2416/1/landing)
 
-*Desktop*
+#### *Desktop*
+
 ![BV Phone Landing (596a06) / BV Obits Landing (ce2416) desktop 1](./images/screenshots/bv-phone-landing-desktop-1.jpeg)
 ![BV Phone Landing (596a06) / BV Obits Landing (ce2416) desktop 2](./images/screenshots/bv-phone-landing-desktop-2.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV Phone Landing (596a06) / BV Obits Landing (ce2416) desktop](./images/screenshots/bv-phone-landing-tablet-1.jpeg)
 
-*Mobile*
+#### *Mobile*
+
 ![BV Phone Landing (596a06) / BV Obits Landing (ce2416) desktop](./images/screenshots/bv-phone-landing-mobile-1.jpeg)
 
 ***
 
 [BV People Landing (8c5ba5)](https://www.beenverified.com/lp/8c5ba5/1/landing)
 
-*Desktop*
+#### *Desktop*
+
 ![BV People Landing (8c5ba5) desktop](./images/screenshots/bv-people-landing-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV People Landing (8c5ba5) tablet](./images/screenshots/bv-people-landing-tablet.png)
 
-*Mobile*
+#### *Mobile*
+
 ![BV People Landing (8c5ba5) mobile](./images/screenshots/bv-people-landing-mobile.png)
 
 ***
 
 [BV VIN Landing (edae7e)](https://www.beenverified.com/lp/edae7e/1/landing)
 
-*Desktop*
+#### *Desktop*
+
 ![BV VIN Landing (edae7e) desktop](./images/screenshots/bv-vin-landing-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV VIN Landing (edae7e) tablet](./images/screenshots/bv-vin-landing-tablet.png)
 
-*Mobile*
+#### *Mobile*
+
 ![BV VIN Landing (edae7e) mobile](./images/screenshots/bv-vin-landing-mobile.png)
 
 ***
@@ -206,28 +226,34 @@ Can have the MTV section or not.
 [BV Obits Loading (ce2416)](https://www.beenverified.com/lp/ce2416/2/loading)
 [BV VIN Loading (edae7e)](https://www.beenverified.com/lp/edae7e/2/loading)
 
-*Desktop*
+#### *Desktop*
+
 ![BV Phone Loading (596a06) / BV People Loading (8c5ba5) / BV People Loading (e7bd2f) / BV People Loading (602b3f) desktop](./images/screenshots/bv-phone-loading-desktop.jpeg)
 ![BV Obits Loading (ce2416) desktop](./images/screenshots/bv-obits-loading-desktop.jpeg)
 ![BV VIN Loading (edae7e) desktop](./images/screenshots/bv-vin-loading-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV Phone Loading (596a06) / BV People Loading (8c5ba5) / BV People Loading (e7bd2f) / BV People Loading (602b3f) tablet](./images/screenshots/bv-phone-loading-tablet.jpeg)
 
-*Mobile*
+#### *Mobile*
+
 ![BV Phone Loading (596a06) / BV People Loading (8c5ba5) / BV People Loading (e7bd2f) / BV People Loading (602b3f) mobile](./images/screenshots/bv-phone-loading-mobile.jpeg)
 
 ***
 
 [BV People Loading (9a28e2)](https://www.beenverified.com/lp/9a28e2/1/loading)
 
-*Desktop*
+#### *Desktop*
+
 ![BV People Loading (9a28e2) desktop](./images/screenshots/bv-people-loading-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV People Loading (9a28e2) tablet](./images/screenshots/bv-people-loading-tablet.png)
 
-*Mobile*
+#### *Mobile*
+
 ![BV People Loading (9a28e2) mobile](./images/screenshots/bv-people-loading-mobile.png)
 
 ***
@@ -243,14 +269,17 @@ Can have the MTV section or not.
 [BV Obits BRP (ce2416)](https://www.beenverified.com/lp/ce2416/3/building-report)
 [BV VIN BRP (edae7e)](https://www.beenverified.com/lp/edae7e/3/building-report)
 
-*Desktop*
+#### *Desktop*
+
 ![BV Phone BRP (596a06) / BV People BRP (8c5ba5) / BV People BRP (9a28e2) / BV People BRP (e7bd2f) / BV People BRP (dc1239) / BV People BRP (602b3f) / BV Obits BRP (ce2416) desktop](./images/screenshots/bv-phone-brp-desktop.jpeg)
 ![BV VIN BRP (edae7e) desktop](./images/screenshots/bv-vin-brp-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV Phone BRP (596a06) / BV People BRP (8c5ba5) / BV People BRP (9a28e2) / BV People BRP (e7bd2f) / BV People BRP (dc1239) / BV People BRP (602b3f) / BV Obits BRP (ce2416) tablet](./images/screenshots/bv-phone-brp-tablet.jpeg)
 
-*Mobile*
+#### *Mobile*
+
 ![BV Phone BRP (596a06) / BV People BRP (8c5ba5) / BV People BRP (9a28e2) / BV People BRP (e7bd2f) / BV People BRP (dc1239) / BV People BRP (602b3f) / BV Obits BRP (ce2416) mobile](./images/screenshots/bv-phone-brp-mobile.jpeg)
 
 ***
@@ -259,13 +288,16 @@ Can have the MTV section or not.
 
 [BV Phone Subscribe (596a06)](https://www.beenverified.com/lp/596a06/4/subscribe)
 
-*Desktop*
+#### *Desktop*
+
 ![BV Phone Subscribe (596a06) desktop](./images/screenshots/bv-phone-subscribe-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV Phone Subscribe (596a06) tablet](./images/screenshots/bv-phone-subscribe-tablet.jpeg)
 
-*Mobile*
+#### *Mobile*
+
 ![BV Phone Subscribe (596a06) mobile](./images/screenshots/bv-phone-subscribe-mobile.jpeg)
 
 ***
@@ -278,14 +310,17 @@ Can have the MTV section or not.
 [BV VIN Subscribe (edae7e)](https://www.beenverified.com/lp/edae7e/4/subscribe)
 [BV Obits Subscribe (ce2416)](https://www.beenverified.com/lp/ce2416/4/subscribe)
 
-*Desktop*
+#### *Desktop*
+
 ![BV People Subscribe (8c5ba5) / BV People Subscribe (9a28e2) / BV People Subscribe (602b3f) desktop](./images/screenshots/bv-people-subscribe-desktop.jpeg)
 ![BV People Subscribe (e7bd2f) / BV People Subscribe (dc1239) / BV VIN Subscribe (edae7e) / BV Obits Subscribe (ce2416) desktop](./images/screenshots/bv-vin-subscribe-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV People Subscribe (8c5ba5) / BV People Subscribe (9a28e2) / BV People Subscribe (602b3f) tablet](./images/screenshots/bv-people-subscribe-tablet.png)
 
-*Mobile*
+#### *Mobile*
+
 ![BV People Subscribe (8c5ba5) / BV People Subscribe (9a28e2) / BV People Subscribe (602b3f) mobile](./images/screenshots/bv-people-subscribe-mobile.png)
 
 ***
@@ -296,13 +331,16 @@ Can have the MTV section or not.
 [BV People Special Offer (9a28e2)](https://www.beenverified.com/lp/9a28e2/4/special-offer)
 [BV People Special Offer (602b3f)](https://www.beenverified.com/lp/602b3f/5/special-offer)
 
-*Desktop*
+#### *Desktop*
+
 ![BV Phone Special Offer (596a06) / BV People Special Offer (9a28e2) / BV People Special Offer (602b3f) desktop](./images/screenshots/bv-phone-specialoffer-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV Phone Special Offer (596a06) / BV People Special Offer (9a28e2) / BV People Special Offer (602b3f) tablet](./images/screenshots/bv-phone-specialoffer-tablet.jpeg)
 
-*Mobile*
+#### *Mobile*
+
 ![BV Phone Special Offer (596a06) / BV People Special Offer (9a28e2) / BV People Special Offer (602b3f) mobile](./images/screenshots/bv-phone-specialoffer-mobile.jpeg)
 
 ***
@@ -311,11 +349,14 @@ Can have the MTV section or not.
 
 [BV VIN One Report (edae7e)](https://www.beenverified.com/lp/edae7e/5/one-report)
 
-*Desktop*
+#### *Desktop*
+
 ![BV VIN One Report (edae7e) desktop](./images/screenshots/bv-vin-onereport-desktop.jpeg)
 
-*Tablet*
+#### *Tablet*
+
 ![BV VIN One Report (edae7e) tablet](./images/screenshots/bv-vin-onereport-tablet.png)
 
-*Mobile*
+#### *Mobile*
+
 ![BV VIN One Report (edae7e) mobile](./images/screenshots/bv-vin-onereport-mobile.png)
